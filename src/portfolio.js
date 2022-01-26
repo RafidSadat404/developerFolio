@@ -150,7 +150,7 @@ const workExperiences = {
       date: "January 2022 – Present",
       desc: "",
       descBullets: [
-        "Fundeed by me!"
+        "Founded by me!"
       ]
     }
   ]
